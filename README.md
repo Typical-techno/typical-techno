@@ -24,13 +24,11 @@
   - Developed and maintained Android applications using Java and Kotlin.
   - Collaborated with cross-functional teams to define, design, and ship new features.
   - Participated in code reviews and provided constructive feedback to peers.
-  - [Certificate](https://prod-files-secure.s3.us-west-2.amazonaws.com/4a2a8695-0e4a-49cd-b37d-2cd8cdb715a4/4b027b4d-5607-4387-8a10-a3917ca01078/SHUBHAM.pdf)
 
 - **International Astronomical Search Program - Collaboration (5 Feb - 29 Feb 2024):**
   - Assisted in the identification and tracking of near-Earth objects.
   - Analyzed astronomical data using specialized software.
   - Contributed to the preparation of scientific reports and presentations.
-  - [Certificate](https://prod-files-secure.s3.us-west-2.amazonaws.com/4a2a8695-0e4a-49cd-b37d-2cd8cdb715a4/0453e20f-17c2-40ab-9c2c-fcb81b81f953/Shubham_Jangra_ISRO.pdf)
 
 - **Sportzpod - UI/UX Designer & Web Developer (16 Feb - ongoing 2024):**
   - Designed user interfaces and improved user experience for web applications.
@@ -48,7 +46,6 @@
   - Developed cross-platform mobile applications using React Native.
   - Integrated RESTful APIs to enhance app functionality.
   - Implemented state management solutions using Redux.
-  - [Internship Letter](https://prod-files-secure.s3.us-west-2.amazonaws.com/4a2a8695-0e4a-49cd-b37d-2cd8cdb715a4/4e78715c-2166-43e6-a8e9-ccbfee1061ef/Figleo_Inter_Letter.pdf)
 
 - **Suff.ai - App Maintainer - React Native Developer (24 April - ongoing 2024):**
   - Maintained and updated existing React Native applications.
@@ -60,7 +57,6 @@
 
 - **Project-1 (Sarajod):**
   - **An uncomplicated and reliable application for accounting, encompassing essential features for both personal and business financial management.**
-  - [Back End Tables](https://www.notion.so/Back-End-Tables-ab3be0db3d36458ab43ae7cfadea1a24?pvs=21)
   - **Tech Stack:**
     - Frontend: ReactNative
     - Backend: Django
