@@ -15,6 +15,8 @@
 - 📫 Reach me at **shubhamjangrartk@gmail.com**
 
 - ⚡ Fun fact **I'm all about diving into a project right off the bat, skipping the reading or video learning phase because it gives me a real kick!**
+- 
+<p align="left">  <a href="https://shubhamjangra.vercel.app" target="_blank" rel="noreferrer">Personal Portfolio</a>  
   
 ⚠️ Caution: Some projects are hiding in private repos like shy turtles in their shells, still in the cocoon phase, waiting to blossom into magnificent butterflies! 🐢🦋
 
